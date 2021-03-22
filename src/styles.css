@@ -9,13 +9,13 @@ body,
 }
 
 body {
-  background-color: #070724;
+  background-color: #230724;
 }
 
 .App {
   font-family: sans-serif;
   text-align: center;
-  color: #ffffff;
+  color: #8ccfbb;
   max-width: 900px;
   margin: 0 auto;
 }
@@ -29,7 +29,7 @@ body {
   padding: 8px;
   width: 200px;
   margin: 0 auto;
-  border: 1px solid white;
+  border: 1px solid rgba(150, 103, 103, 0.555);
   border-radius: 6px;
   cursor: pointer;
   margin-top: 16px;
@@ -63,7 +63,7 @@ body {
   width: 250px;
   border-radius: 6px;
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  background-color: #ffffff;
+  background-color: #da4b4b9c;
   margin: 16px;
 }
 
@@ -126,18 +126,18 @@ p.episode-runtime {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #540a5e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgba(132, 160, 31, 0.349);
 }
 
 .App-link {
-  color: #61dafb;
+  color: #500a92;
 }
 
 .navbar-brand img {
